@@ -1,9 +1,6 @@
-<p align="left">
-### Hi there 👋</p>
-
 ###
 
-<h3 align="center">Hi, I am Alisha</h3>
+<h3 align="center">Hi 👋, I am Alisha</h3>
 
 ###
 
@@ -32,9 +29,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/alisha-pradhan/alisha-pradhan/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
