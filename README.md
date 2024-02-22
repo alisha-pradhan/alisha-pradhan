@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-
-<h1 align="center">I am Alisha.</h1>
+<h1 align="center">Hi 👋 there I am Alisha.</h1>
 <h3 align="center">A budding fullstack developer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisha-pradhan&label=Profile%20views&color=0e75b6&style=flat" alt="alisha-pradhan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisha-pradhan" alt="alisha-pradhan" /></a> </p>
 
 - 🌱 I’m currently learning **learning MERN stack**
 
@@ -23,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alisha-pradhan&show_icons=true&locale=en" alt="alisha-pradhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-pradhan&" alt="alisha-pradhan" /></p>
+
