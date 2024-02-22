@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-I am Alisha 
+I am Alisha, A budding fullstack developer from India.
+🌱 I am currently learning MERN stack.
+
 <!--
 **alisha-pradhan/alisha-pradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
